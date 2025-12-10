@@ -101,9 +101,9 @@ streamlit run app/streamlit_app.py
 ## 🧑‍🏫 Team Members
 - Syed Sharshad  
 - Milka Joseph  
-- Kamil Ansari  
-- Giridhar  
-- Pramita  
+- Mohammed Kamil Ansari  
+- K Giridhar  
+- Kopparapu Pramita  
 - **Mentor:** Dr. K. Arun Kumar  
 
 ---
