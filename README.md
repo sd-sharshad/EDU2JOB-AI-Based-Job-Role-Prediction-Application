@@ -29,11 +29,11 @@ It integrates **Machine Learning, Data Analysis, Streamlit UI, Secure Authentica
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/sd-sharshad/EDU2JOB-AI-Based-Job-Role-Prediction-Application.git
 cd EDU2JOB
 
-```
+
 ---
 
 ## 2️⃣ Create Virtual Environment 
