@@ -26,7 +26,7 @@ It integrates **Machine Learning, Data Analysis, Streamlit UI, Secure Authentica
 
 ---
 
-## 🚀 How to Run the App Locally
+## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
 ```bash
@@ -36,105 +36,15 @@ cd EDU2JOB
 ---
 
 ### 2️⃣ Create Virtual Environment
+```bash
 python -m venv venv
 venv\Scripts\activate        # Windows
 source venv/bin/activate     # macOS/Linux
 
-
 ---
 
-### 3️⃣ Install Requirements
-pip install -r requirements.txt
-
----
-
-### 4️⃣ Run the Application
-streamlit run app/streamlit_app.py
-
----
-### The app will open at:
-👉 http://localhost:8501
-
----
-
-### 🧠 Machine Learning Model
-
-Algorithm: XGBoost (Gradient Boosting)
-
-Accuracy: 94%
-
-Understands relationships between education, skills, certifications, and experience to predict job roles.
-
-📥 Model Download
-
-The trained model will be uploaded soon.
-A placeholder is included for model loading until then.
-
----
-📈 Analytics Dashboard Includes
-
-Total predictions
-
-Unique roles explored
-
-Most predicted job role
-
-Average experience
-
-Skill usage trends
-
-Career gap insights
-
-Prediction timeline
-
-🔐 Security
-
-JWT Authentication
-
-Password hashing (bcrypt)
-
-Only the user & admin can view user-specific activities
-
-Secure data handling practices
-
-👨‍💼 Admin Panel Features
-
-View all users
-
-View/manage all predictions
-
-Upload datasets
-
-Trigger model retraining
-
-Access analytics and system insights
-
-🧑‍🏫 Team Members
-
-Syed Sharshad
-
-Milka Joseph
-
-Kamil Ansari
-
-Giridhar
-
-Pramita
-
-Mentor: Dr. K. Arun Kumar
-
-📬 Contact
-
-Developer: Syed Sharshad
-
-Email: sdsharshad@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/syedsharshad
-
-GitHub: https://github.com/SyedSharshad
-
----
-
-📄 License
-
-This project is licensed under the MIT License.
+## 2️⃣ Create Virtual Environment
+```bash
+ python -m venv venv
+ venv\Scripts\activate        # Windows
+ source venv/bin/activate     # macOS/Linux
