@@ -33,10 +33,11 @@ It integrates **Machine Learning, Data Analysis, Streamlit UI, Secure Authentica
 git clone https://github.com/sd-sharshad/EDU2JOB-AI-Based-Job-Role-Prediction-Application.git
 cd EDU2JOB
 
+```
 ---
 
 ## 2️⃣ Create Virtual Environment 
-```bash
+
 python -m venv venv
 venv\Scripts\activate        # Windows
 source venv/bin/activate     # macOS/Linux
@@ -108,6 +109,8 @@ streamlit run app/streamlit_app.py
 - 📧 Email: [sdsharshad@gmail.com](mailto:sdsharshad@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/syedsharshad](https://linkedin.com/in/syedsharshad)  
 - 💻 GitHub: [github.com/SyedSharshad](https://github.com/SyedSharshad)  
+
+
 
 
 
