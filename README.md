@@ -35,16 +35,80 @@ cd EDU2JOB
 
 ---
 
-### 2️⃣ Create Virtual Environment
+## 2️⃣ Create Virtual Environment 
 ```bash
 python -m venv venv
 venv\Scripts\activate        # Windows
 source venv/bin/activate     # macOS/Linux
 
 ---
+## 3️⃣ Install Requirements
 
-## 2️⃣ Create Virtual Environment
-```bash
- python -m venv venv
- venv\Scripts\activate        # Windows
- source venv/bin/activate     # macOS/Linux
+pip install -r requirements.txt
+
+---
+
+4️⃣ Run the Application
+
+streamlit run app/streamlit_app.py
+
+---
+
+> 👉 **The app will open at: http://localhost:8501**
+
+## 🧠 Machine Learning Model
+- **Algorithm:** XGBoost (Gradient Boosting)  
+- **Accuracy:** 94%  
+- Learns relationships between education, skills, certifications, and experience to predict job roles.  
+
+📥 **Model Download:** The trained model will be uploaded soon. A placeholder is currently included for model loading.
+
+---
+
+## 📈 Analytics Dashboard
+- Total predictions  
+- Unique roles explored  
+- Most predicted job role  
+- Average experience  
+- Skill usage trends  
+- Career gap insights  
+- Prediction timeline  
+
+---
+
+## 🔐 Security
+- JWT Authentication  
+- Password hashing (bcrypt)  
+- User-specific activity visibility (user & admin only)  
+- Secure data handling practices  
+
+---
+
+## 👨‍💼 Admin Panel Features
+- View all users  
+- Manage predictions  
+- Upload datasets  
+- Trigger model retraining  
+- Access analytics and system insights  
+
+---
+
+## 🧑‍🏫 Team Members
+- Syed Sharshad  
+- Milka Joseph  
+- Kamil Ansari  
+- Giridhar  
+- Pramita  
+- **Mentor:** Dr. K. Arun Kumar  
+
+---
+
+## 📬 Contact
+**Developer:** Syed Sharshad  
+- 📧 Email: [sdsharshad@gmail.com](mailto:sdsharshad@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/syedsharshad](https://linkedin.com/in/syedsharshad)  
+- 💻 GitHub: [github.com/SyedSharshad](https://github.com/SyedSharshad)  
+
+
+
+
